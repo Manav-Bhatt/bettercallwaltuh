@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+html{
+  --line-color: #e2e8f0;
+}
+
+.borderBlack{
+  @apply border border-black/10;
+}
