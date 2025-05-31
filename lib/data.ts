@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
+// import { FaReact } from "react-icons/fa";
+// import { LuGraduationCap } from "react-icons/lu";
 import dedundesk from "@/public/dedundesk.jpeg";
 import advAise from "@/public/advAise.jpeg";
 import posters from "@/public/posters.jpeg";
