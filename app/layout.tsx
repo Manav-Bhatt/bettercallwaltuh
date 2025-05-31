@@ -10,8 +10,11 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Manav | Personal Portfolio",
-  description: "Manav is a full-stack developer and Graphic Designer",
+  title: "Manav|bettercallwaltuh",
+  description: "Full Stack Developer and Graphic Designer",
+  icons: {
+    icon: "/favicon.ico", 
+  }
 };
 
 export default function RootLayout({
