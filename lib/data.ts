@@ -5,6 +5,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import dedundesk from "@/public/dedundesk.jpeg";
 import advAise from "@/public/advAise.jpeg";
 import posters from "@/public/posters.jpeg";
+import portals from "@/public/portals.jpeg";
 
 export const links = [
   {
@@ -68,6 +69,14 @@ export const projectsData = [
     tags: ["Next.js", "Clerk", "TailwindCSS", "PrismaORM", "PostgreSQL", "Shadcn UI", "Recharts"],
     imageUrl: dedundesk,
     link: "https://dedundesk.vercel.app/",
+  },
+  {
+    title: "Portals",
+    description:
+      "Engineered a high-performance, real-time collaborative whiteboard built on Next.js, leveraging Convex and Liveblocks for a responsive backend and seamless synchronization.",
+      tags: ["Next.js", "Convex", "Liveblocks", "Clerk", "Tailwind CSS", "shadcn/ui"],
+    imageUrl: portals,
+    link: "https://portallss.vercel.app/",
   },
   {
     title: "advAise- consultancy portfolio",
