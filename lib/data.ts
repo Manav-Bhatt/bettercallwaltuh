@@ -36,7 +36,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Lossfilter - Software Developer Intern",
+    title: "Lossfilter - Product and Software Developer Intern",
     location: "Bangalore, India",
     description:
       "Developed multiple user flows for the company website using Next.js, ensuring smooth user experiences and timely delivery. Collaborated with backend engineers to integrate APIs via Swagger,maintaining efficient communication. Gained proficiency in Bitbucket for managing repositories, workflows, and pull requests.",
